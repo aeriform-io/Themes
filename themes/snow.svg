@@ -3,7 +3,7 @@
   <rect width='96' height='64' id='background' fill='#eeefee'></rect>
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high' fill='#545454'></circle>
-  <circle cx='40' cy='24' r='8' id='f_med' fill='#545454'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#BBBBBB'></circle>
   <circle cx='56' cy='24' r='8' id='f_low' fill='#545454'></circle>
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#545454'></circle>
   <!-- Background -->
@@ -14,8 +14,8 @@
   <!-- Tape -->
   <desc id='tape_invert' fill='true'></desc>
   <desc id='tape_unstarted' fill='#ed2c3e'></desc>
-  <desc id='tape_progressing' fill='#e49900'></desc>
-  <desc id='tape_submitted' fill='#8a42b0'></desc>
-  <desc id='tape_approved' fill='#c72795'></desc>
-  <desc id='tape_done' fill='#63be00'></desc>
+  <desc id='tape_progressing' fill='#CB3F40'></desc>
+  <desc id='tape_submitted' fill='#6F4573'></desc>
+  <desc id='tape_approved' fill='#B73767'></desc>
+  <desc id='tape_done' fill='#4B9481'></desc>
 </svg>
