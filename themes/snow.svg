@@ -3,7 +3,7 @@
   <rect width='96' height='64' id='background' fill='#eeefee'></rect>
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high' fill='#545454'></circle>
-  <circle cx='40' cy='24' r='8' id='f_med' fill='#BBBBBB'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#ed2c3e'></circle>
   <circle cx='56' cy='24' r='8' id='f_low' fill='#545454'></circle>
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#545454'></circle>
   <!-- Background -->
