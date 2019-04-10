@@ -5,7 +5,7 @@
   <circle cx='24' cy='24' r='8' id='f_high' fill='#968585'></circle>
   <circle cx='40' cy='24' r='8' id='f_med' fill='#cb8dd7'></circle>
   <circle cx='56' cy='24' r='8' id='f_low' fill='#ec57b4'></circle>
-  <circle cx='72' cy='24' r='8' id='f_inv' fill='#f9f5f5'></circle>
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#968585'></circle>
   <!-- Background -->
   <circle cx='24' cy='40' r='8' id='b_high' fill='#eeeeee'></circle>
   <circle cx='40' cy='40' r='8' id='b_med' fill='#ffffff'></circle>
