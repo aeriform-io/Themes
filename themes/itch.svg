@@ -1,0 +1,21 @@
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+  <!-- Author: Aeriform inspired by itch.io-->
+  <rect width='96' height='64' id='background' fill='#1B1B1B'></rect>
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high' fill='#BABABA'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#F2275D'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#BABABA'></circle>
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#BABABA'></circle>
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#BABABA'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#141414'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#141414'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#F2275D'></circle>
+  <!-- Tape -->
+  <desc id='tape_invert' fill='true'></desc>
+  <desc id='tape_unstarted' fill='#F2275D'></desc>
+  <desc id='tape_progressing' fill='#D34D75'></desc>
+  <desc id='tape_submitted' fill='#A6467A'></desc>
+  <desc id='tape_approved' fill='#5F416D'></desc>
+  <desc id='tape_done' fill='#328C62'></desc>
+</svg>
