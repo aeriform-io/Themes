@@ -1,0 +1,21 @@
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+  <!-- Author: Aeriform inspired by NieR Automata-->
+  <rect width='96' height='64' id='background' fill='#3a3630'></rect>
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high' fill='#cac7ba'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#807666'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#dc7069'></circle>
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#deba2f'></circle>
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#6faf7a'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#433f39'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#433f39'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#75abd4'></circle>
+  <!-- Tape -->
+  <desc id='tape_invert' fill='#ffffff'></desc>
+  <desc id='tape_unstarted' fill='#dc7069'></desc>
+  <desc id='tape_progressing' fill='#cac7ba'></desc>
+  <desc id='tape_submitted' fill='#a47dd4'></desc>
+  <desc id='tape_approved' fill='#75abd4'></desc>
+  <desc id='tape_done' fill='#6faf7a'></desc>
+</svg>
