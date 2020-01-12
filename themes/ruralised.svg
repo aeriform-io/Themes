@@ -1,21 +1,21 @@
 <svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
   <!-- Author: Aeriform -->
-  <rect width='96' height='64' id='background' fill='#DADAD1'></rect>
+  <rect width='96' height='64' id='background' fill='#dadad1'></rect>
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high' fill='#252526'></circle>
-  <circle cx='40' cy='24' r='8' id='f_med' fill='#2B3555'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#2b3555'></circle>
   <circle cx='56' cy='24' r='8' id='f_low' fill='#252526'></circle>
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#252526'></circle>
   <!-- Background -->
-  <circle cx='24' cy='40' r='8' id='b_high' fill='#DADAD1'></circle>
-  <circle cx='40' cy='40' r='8' id='b_med' fill='#DBD3C7'></circle>
-  <circle cx='56' cy='40' r='8' id='b_low' fill='#DADAD1'></circle>
-  <circle cx='72' cy='40' r='8' id='b_inv' fill='#CB6C55'></circle>
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#dadad1'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#dbd3c7'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#dadad1'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#cb6c55'></circle>
   <!-- Tape -->
   <desc id='tape_invert' fill='false'></desc>
-  <desc id='tape_unstarted' fill='#CB6C55'></desc>
-  <desc id='tape_progressing' fill='#DBAF6A'></desc>
-  <desc id='tape_submitted' fill='#2B3555'></desc>
-  <desc id='tape_approved' fill='#DE9C8C'></desc>
-  <desc id='tape_done' fill='#5F6841'></desc>
+  <desc id='tape_priority' fill='#cb6c55'></desc>
+  <desc id='tape_working' fill='#dbaf6a'></desc>
+  <desc id='tape_submitted' fill='#2b3555'></desc>
+  <desc id='tape_approved' fill='#de9c8c'></desc>
+  <desc id='tape_done' fill='#5f6841'></desc>
 </svg>

@@ -13,8 +13,8 @@
   <circle cx='72' cy='40' r='8' id='b_inv' fill='#a2324e'></circle>
   <!-- Tape -->
   <desc id='tape_invert' fill='true'></desc>
-  <desc id='tape_unstarted' fill='#a2324e'></desc>
-  <desc id='tape_progressing' fill='#867861'></desc>
+  <desc id='tape_priority' fill='#a2324e'></desc>
+  <desc id='tape_working' fill='#867861'></desc>
   <desc id='tape_submitted' fill='#362747'></desc>
   <desc id='tape_approved' fill='#e08b79'></desc>
   <desc id='tape_done' fill='#546a00'></desc>

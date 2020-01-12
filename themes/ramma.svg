@@ -13,9 +13,9 @@
   <circle cx='72' cy='40' r='8' id='b_inv' fill='#ed2c3e'></circle>
   <!-- Tape -->
   <desc id='tape_invert' fill='true'></desc>
-  <desc id='tape_unstarted' fill='#ed2c3e'></desc>
-  <desc id='tape_progressing' fill='#CB3F40'></desc>
-  <desc id='tape_submitted' fill='#6F4573'></desc>
-  <desc id='tape_approved' fill='#B73767'></desc>
-  <desc id='tape_done' fill='#4B9481'></desc>
+  <desc id='tape_priority' fill='#ed2c3e'></desc>
+  <desc id='tape_working' fill='#cb6c55'></desc>
+  <desc id='tape_submitted' fill='#6f4573'></desc>
+  <desc id='tape_approved' fill='#b73767'></desc>
+  <desc id='tape_done' fill='#4b9481'></desc>
 </svg>
