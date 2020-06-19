@@ -1,0 +1,21 @@
+<svg width='96px' height='64px' xmlns='http://www.w3.org/2000/svg' baseProfile='full' version='1.1'>
+  <!-- Author: [AUTHOR] -->
+  <rect width='96' height='64' id='background' fill='#808080'></rect><!-- background -->
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high'    fill='#ffffff'></circle><!-- main text -->
+  <circle cx='40' cy='24' r='8' id='f_med'     fill='#00ffff'></circle><!-- tape logo -->
+  <circle cx='56' cy='24' r='8' id='f_low'     fill='#000000'></circle><!-- unused -->
+  <circle cx='72' cy='24' r='8' id='f_inv'     fill='#ffffff'></circle><!-- groove text -->
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high'    fill='#00FFFF'></circle><!--  -->
+  <circle cx='40' cy='40' r='8' id='b_med'     fill='#bbbbbb'></circle><!-- groove -->
+  <circle cx='56' cy='40' r='8' id='b_low'     fill='#aaaaaa'></circle><!--  -->
+  <circle cx='72' cy='40' r='8' id='b_inv'     fill='#000000'></circle><!--  -->
+  <!-- Tape -->
+  <desc id='tape_invert'                       fill='false'></desc><!-- invert item fg/bg -->
+  <desc id='tape_priority'                     fill='#ff0000'></desc><!--  -->
+  <desc id='tape_working'                      fill='#00ffff'></desc><!--  -->
+  <desc id='tape_submitted'                    fill='#0000ff'></desc><!--  -->
+  <desc id='tape_approved'                     fill='#ff00ff'></desc><!--  -->
+  <desc id='tape_done'                         fill='#00ff00'></desc><!--  -->
+</svg>

@@ -17,8 +17,8 @@ for (var i = 0; i < files.length; i++) {
 }
 
 buffer +="\n\n"
-buffer +="Thanks to those that gave permission or blessing to create and distribute themes.\n\n"
-buffer +="Contributions are welcome."
+buffer +="The templates folder includes a guide for creating new themes, and utility theme for use with pywal.\n\n"
+buffer +="Thanks to those that gave permission or blessing to create and distribute themes, and those that have contributed."
 
 fs.writeFile("README.md", buffer, function(err) {
     if(err) {
