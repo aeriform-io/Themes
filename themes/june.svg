@@ -19,7 +19,7 @@
     <circle cx='24' cy='40' r='8' id='b_high' fill='#141017'></circle>
     <!-- "New collection/item" fill color -->
     <circle cx='40' cy='40' r='8' id='b_med' fill='#FCFCFC'></circle>
-    <!-- Collection header/footer & uncategorized item fill-->
+    <!-- Collection header/footer, uncategorized item fill, and categorized item text -->
     <circle cx='56' cy='40' r='8' id='b_low' fill='#141017'></circle>
     <!-- (unused) -->
     <circle cx='72' cy='40' r='8' id='b_inv' fill='#141017'></circle>
