@@ -2,20 +2,20 @@
   <!-- Author: Aeriform -->
   <rect width='96' height='64' id='background' fill='#171410'></rect><!-- background -->
   <!-- Foreground -->
-  <circle cx='24' cy='24' r='8' id='f_high'    fill='#CABCC2'></circle><!-- main text -->
-  <circle cx='40' cy='24' r='8' id='f_med'     fill='#26211B'></circle><!-- tape logo -->
+  <circle cx='24' cy='24' r='8' id='f_high'    fill='#cabcc2'></circle><!-- main text -->
+  <circle cx='40' cy='24' r='8' id='f_med'     fill='#26211b'></circle><!-- tape logo -->
   <circle cx='56' cy='24' r='8' id='f_low'     fill='#000000'></circle><!-- unused -->
-  <circle cx='72' cy='24' r='8' id='f_inv'     fill='#CABCC2'></circle><!-- groove text -->
+  <circle cx='72' cy='24' r='8' id='f_inv'     fill='#cabcc2'></circle><!-- groove text -->
   <!-- Background -->
-  <circle cx='24' cy='40' r='8' id='b_high'    fill='#00FFFF'></circle><!--  -->
-  <circle cx='40' cy='40' r='8' id='b_med'     fill='#26211B'></circle><!-- groove -->
+  <circle cx='24' cy='40' r='8' id='b_high'    fill='#00ffff'></circle><!--  -->
+  <circle cx='40' cy='40' r='8' id='b_med'     fill='#26211b'></circle><!-- groove -->
   <circle cx='56' cy='40' r='8' id='b_low'     fill='#171410'></circle><!--  -->
-  <circle cx='72' cy='40' r='8' id='b_inv'     fill='#000000'></circle><!--  -->
+  <circle cx='72' cy='40' r='8' id='b_inv'     fill='#cc665f'></circle><!--  -->
   <!-- Tape -->
   <desc id='tape_invert'                       fill='false'></desc><!-- invert item fg/bg -->
-  <desc id='tape_priority'                     fill='#CC665F'></desc><!--  -->
-  <desc id='tape_working'                      fill='#D58C76'></desc><!--  -->
-  <desc id='tape_submitted'                    fill='#6B7287'></desc><!--  -->
-  <desc id='tape_approved'                     fill='#9F5F6C'></desc><!--  -->
-  <desc id='tape_done'                         fill='#26211B'></desc><!--  -->
+  <desc id='tape_priority'                     fill='#cc665f'></desc><!--  -->
+  <desc id='tape_working'                      fill='#d58c76'></desc><!--  -->
+  <desc id='tape_submitted'                    fill='#6b7287'></desc><!--  -->
+  <desc id='tape_approved'                     fill='#9f5f6c'></desc><!--  -->
+  <desc id='tape_done'                         fill='#26211b'></desc><!--  -->
 </svg>

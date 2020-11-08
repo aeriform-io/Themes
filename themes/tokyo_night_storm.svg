@@ -10,7 +10,7 @@
   <circle cx='24' cy='40' r='8' id='b_high' fill='#0d0f17'></circle>
   <circle cx='40' cy='40' r='8' id='b_med' fill='#1f2335'></circle>
   <circle cx='56' cy='40' r='8' id='b_low' fill='#1f2335'></circle>
-  <circle cx='72' cy='40' r='8' id='b_inv' fill='#0d0f17'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#f7768e'></circle>
   <!-- Tape -->
   <desc id='tape_invert' fill='false'></desc>
   <desc id='tape_priority' fill='#f7768e'></desc>

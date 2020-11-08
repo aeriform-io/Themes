@@ -1,0 +1,21 @@
+<svg width='96px' height='64px' xmlns='http://www.w3.org/2000/svg' baseProfile='full' version='1.1'>
+  <!-- Author: Aeriform -->
+  <rect width='96' height='64' id='background' fill='#0E0E0E'></rect><!-- background -->
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high'    fill='#efeff1'></circle><!-- main text -->
+  <circle cx='40' cy='24' r='8' id='f_med'     fill='#73e5a2'></circle><!-- tape logo -->
+  <circle cx='56' cy='24' r='8' id='f_low'     fill='#131315'></circle><!-- unused -->
+  <circle cx='72' cy='24' r='8' id='f_inv'     fill='#efeff1'></circle><!-- groove text -->
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high'    fill='#efeff1'></circle><!--  -->
+  <circle cx='40' cy='40' r='8' id='b_med'     fill='#131315'></circle><!-- groove -->
+  <circle cx='56' cy='40' r='8' id='b_low'     fill='#131315'></circle><!--  -->
+  <circle cx='72' cy='40' r='8' id='b_inv'     fill='#f97482'></circle><!--  -->
+  <!-- Tape -->
+  <desc id='tape_invert'                       fill='false'></desc><!-- invert item fg/bg -->
+  <desc id='tape_priority'                     fill='#f2f2f5'></desc><!--  -->
+  <desc id='tape_working'                      fill='#8700d2'></desc><!--  -->
+  <desc id='tape_submitted'                    fill='#0a82fa'></desc><!--  -->
+  <desc id='tape_approved'                     fill='#f97482'></desc><!--  -->
+  <desc id='tape_done'                         fill='#73e5a2'></desc><!--  -->
+</svg>
