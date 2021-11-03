@@ -1,0 +1,38 @@
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+    <!-- Author: Knaque -->
+
+    <!-- Background fill -->
+    <rect width="96" height="64" id="background" fill="#1E1F2B"/>
+
+    <!-- Color of collection title text, uncategorized item text,
+    collection count, version, and dot grid -->
+    <circle cx="24" cy="24" r="8" id="f_high" fill="#EAF2F1"/>
+    <!-- Color of Tape logo -->
+    <circle cx="40" cy="24" r="8" id="f_med" fill="#3A3D4C"/>
+    <!-- (unused) -->
+    <circle cx="56" cy="24" r="8" id="f_low" fill="#FF657A"/>
+    <!-- "New/edit collection/item" text color -->
+    <circle cx="72" cy="24" r="8" id="f_inv" fill="#EAF2F1"/>
+
+    <!-- (unused) -->
+    <circle cx="24" cy="40" r="8" id="b_high" fill="#BAD761"/>
+    <!-- "New collection/item" fill color -->
+    <circle cx="40" cy="40" r="8" id="b_med" fill="#3A3D4C"/>
+    <!-- Collection header/footer, uncategorized item fill, and categorized item text -->
+    <circle cx="56" cy="40" r="8" id="b_low" fill="#282A3A"/>
+    <!-- (unused) -->
+    <circle cx="72" cy="40" r="8" id="b_inv" fill="#9CD1BB"/>
+
+    <!-- Fill categorized items -->
+    <desc id="tape_invert" fill="true"/>
+    <!-- "Priority" category -->
+    <desc id="tape_priority" fill="#FF657A"/>
+    <!-- "Working" category -->
+    <desc id="tape_working" fill="#FF9B5E"/>
+    <!-- "Submitted" category -->
+    <desc id="tape_submitted" fill="#FFD76D"/>
+    <!-- "Approved" category -->
+    <desc id="tape_approved" fill="#BAD761"/>
+    <!-- "Done" category -->
+    <desc id="tape_done" fill="#9CD1BB"/>
+</svg>
