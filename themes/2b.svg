@@ -4,7 +4,7 @@
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high' fill='#534e41'></circle>
   <circle cx='40' cy='24' r='8' id='f_med' fill='#cc295c'></circle>
-  <circle cx='56' cy='24' r='8' id='f_low' fill='#534e41'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#dfddca'></circle>
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#534e41'></circle>
   <!-- Background -->
   <circle cx='24' cy='40' r='8' id='b_high' fill='#ede6d4'></circle>
@@ -12,7 +12,7 @@
   <circle cx='56' cy='40' r='8' id='b_low' fill='#dfddca'></circle>
   <circle cx='72' cy='40' r='8' id='b_inv' fill='#cc295c'></circle>
   <!-- Tape -->
-  <desc id='tape_invert' fill='false'></desc>
+  <desc id='tape_style' fill='0'></desc>
   <desc id='tape_priority' fill='#cc654c'></desc>
   <desc id='tape_working' fill='#867861'></desc>
   <desc id='tape_submitted' fill='#bdb092'></desc>

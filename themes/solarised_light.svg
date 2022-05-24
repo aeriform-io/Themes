@@ -7,17 +7,17 @@
   <title>Layer 1</title>
   <!-- Background -->
   <rect fill="#eee8d5" id="background" height="64" width="96"/> <!-- Base 2 -->
-  <circle fill="#002b36" id="b_high" r="8" cy="24" cx="24"/>    <!-- Base 03 -->
+  <circle fill="#fdf6e3" id="b_high" r="8" cy="24" cx="24"/>    <!-- Base 03 -->
   <circle fill="#073642" id="b_med" r="8" cy="24" cx="40"/>     <!-- Base 02 -->
   <circle fill="#fdf6e3" id="b_low" r="8" cy="24" cx="56"/>     <!-- Base 3 -->
   <circle fill="#cb4b16" id="b_inv" r="8" cy="24" cx="72"/>     <!-- Orange (Compilment) -->
   <!-- Foreground -->
   <circle fill="#586e75" id="f_high" r="8" cy="40" cx="24"/>    <!-- Base 01-->
   <circle fill="#6c71c4" id="f_med" r="8" cy="40" cx="40"/>     <!-- Violet (Analagous) -->
-  <circle fill="#93a1a1" id="f_low" r="8" cy="40" cx="56"/>     <!-- Base 1 -->
+  <circle fill="#fdf6e3" id="f_low" r="8" cy="40" cx="56"/>     <!-- Base 1 -->
   <circle fill="#fdf6e3" id="f_inv" r="8" cy="40" cx="72"/>     <!-- Base 3 -->
   <!-- Tape -->
-  <desc id='tape_invert' fill='false'></desc>
+  <desc id='tape_style' fill='0'></desc>
   <desc id='tape_priority' fill='#dc322f'></desc>
   <desc id='tape_working' fill='#cb4b16'></desc>
   <desc id='tape_submitted' fill='#b58900'></desc>

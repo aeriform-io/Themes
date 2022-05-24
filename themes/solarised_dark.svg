@@ -14,10 +14,10 @@
   <!-- Foreground -->
   <circle fill="#93a1a1" id="f_high" r="8" cy="40" cx="24"/>    <!-- Base 1-->
   <circle fill="#6c71c4" id="f_med" r="8" cy="40" cx="40"/>     <!-- Violet (Analagous) -->
-  <circle fill="#586e75" id="f_low" r="8" cy="40" cx="56"/>     <!-- Base 01 -->
+  <circle fill="#002b36" id="f_low" r="8" cy="40" cx="56"/>     <!-- Base 01 -->
   <circle fill="#002b36" id="f_inv" r="8" cy="40" cx="72"/>     <!-- Base 03 -->
   <!-- Tape -->
-  <desc id='tape_invert' fill='true'></desc>
+  <desc id='tape_style' fill='0'></desc>
   <desc id='tape_priority' fill='#dc322f'></desc>
   <desc id='tape_working' fill='#cb4b16'></desc>
   <desc id='tape_submitted' fill='#b58900'></desc>

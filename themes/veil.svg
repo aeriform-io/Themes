@@ -4,15 +4,15 @@
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high' fill='#d9d6cc'></circle>
   <circle cx='40' cy='24' r='8' id='f_med' fill='#d7569d'></circle>
-  <circle cx='56' cy='24' r='8' id='f_low' fill='#ededed'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#301c59'></circle>
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#d7569d'></circle>
   <!-- Background -->
-  <circle cx='24' cy='40' r='8' id='b_high' fill='#301c59'></circle>
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#d9d6cc'></circle>
   <circle cx='40' cy='40' r='8' id='b_med' fill='#301c59'></circle>
   <circle cx='56' cy='40' r='8' id='b_low' fill='#301c59'></circle>
   <circle cx='72' cy='40' r='8' id='b_inv' fill='#d7569d'></circle>
   <!-- Tape -->
-  <desc id='tape_invert' fill='false'></desc>
+  <desc id='tape_style' fill='0'></desc>
   <desc id='tape_priority' fill='#ff7f82'></desc>
   <desc id='tape_working' fill='#d7569d'></desc>
   <desc id='tape_submitted' fill='#8c35c7'></desc>

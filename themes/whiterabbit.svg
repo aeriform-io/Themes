@@ -4,15 +4,15 @@
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high'    fill='#333333'></circle><!-- main text -->
   <circle cx='40' cy='24' r='8' id='f_med'     fill='#333333'></circle><!-- tape logo -->
-  <circle cx='56' cy='24' r='8' id='f_low'     fill='#333333'></circle><!-- unused -->
+  <circle cx='56' cy='24' r='8' id='f_low'     fill='#DDDDDD'></circle><!-- unused -->
   <circle cx='72' cy='24' r='8' id='f_inv'     fill='#333333'></circle><!-- groove text -->
   <!-- Background -->
-  <circle cx='24' cy='40' r='8' id='b_high'    fill='#333333'></circle><!-- unused -->
+  <circle cx='24' cy='40' r='8' id='b_high'    fill='#DDDDDD'></circle><!-- unused -->
   <circle cx='40' cy='40' r='8' id='b_med'     fill='#F5F4EB'></circle><!-- groove -->
   <circle cx='56' cy='40' r='8' id='b_low'     fill='#DDDDDD'></circle><!-- collection bg -->
   <circle cx='72' cy='40' r='8' id='b_inv'     fill='#D94A4A'></circle><!-- ramma  -->
   <!-- Tape -->
-  <desc id='tape_invert'                       fill='false'></desc><!-- invert item fg/bg -->
+  <desc id='tape_style' fill='0'></desc>
   <desc id='tape_priority'                     fill='#D94A4A'></desc><!--  -->
   <desc id='tape_working'                      fill='#E18D79'></desc><!--  -->
   <desc id='tape_submitted'                    fill='#7664FE'></desc><!--  -->

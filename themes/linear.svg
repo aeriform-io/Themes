@@ -4,7 +4,7 @@
   <!-- Foreground -->
   <circle cx='24' cy='24' r='8' id='f_high'    fill='#d5d6d7'></circle><!-- main text -->
   <circle cx='40' cy='24' r='8' id='f_med'     fill='#27282b'></circle><!-- tape logo -->
-  <circle cx='56' cy='24' r='8' id='f_low'     fill='#000000'></circle><!-- unused -->
+  <circle cx='56' cy='24' r='8' id='f_low'     fill='#27282b'></circle><!-- unused -->
   <circle cx='72' cy='24' r='8' id='f_inv'     fill='#d5d6d7'></circle><!-- groove text -->
   <!-- Background -->
   <circle cx='24' cy='40' r='8' id='b_high'    fill='#27282b'></circle><!--  -->
@@ -12,7 +12,7 @@
   <circle cx='56' cy='40' r='8' id='b_low'     fill='#27282b'></circle><!--  -->
   <circle cx='72' cy='40' r='8' id='b_inv'     fill='#ef5859'></circle><!--  -->
   <!-- Tape -->
-  <desc id='tape_invert'                       fill='true'></desc><!-- invert item fg/bg -->
+  <desc id='tape_style'                       fill='0'></desc><!-- invert item fg/bg -->
   <desc id='tape_priority'                     fill='#c52928'></desc><!--  -->
   <desc id='tape_working'                      fill='#f2ca4d'></desc><!--  -->
   <desc id='tape_submitted'                    fill='#5e6ad3'></desc><!--  -->

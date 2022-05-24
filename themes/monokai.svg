@@ -19,21 +19,21 @@
   <!-- Tape logo, at the very least -->
   <circle cx='40' cy='24' r='8' id='f_med' fill='#f92672'></circle>
   <!--  -->
-  <circle cx='56' cy='24' r='8' id='f_low' fill='#75715e'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#272822'></circle>
   <!-- "Add" text -->
   <circle cx='72' cy='24' r='8' id='f_inv' fill='#272822'></circle>
   
   <!-- Background -->
   <!-- -->
-  <circle cx='24' cy='40' r='8' id='b_high' fill='#75715e'></circle>
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#272822'></circle>
   <!-- the below value changes the colour of the small box you use to add more items in a category-->
   <circle cx='40' cy='40' r='8' id='b_med' fill='#a6e22e'></circle>
   <!--the below value changes the colour of the boxes that categories appear in -->
   <circle cx='56' cy='40' r='8' id='b_low' fill='#272822'></circle>
   <!-- -->
-  <circle cx='72' cy='40' r='8' id='b_inv' fill='#75715e'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#f92672'></circle>
   <!-- Tape -->
-  <desc id='tape_invert' fill='false'></desc>
+  <desc id='tape_style' fill='0'></desc>
   <!-- when you select a status, does the bar fill, or does the text change colour? True = just text. False = the whole bar changes colour.-->
   <!--below, each category has its own fill colour (false / bar) or text colour (true / text)-->
   <desc id='tape_priority' fill='#f92672'></desc>

@@ -11,21 +11,21 @@
     <!-- Color of Tape logo -->
     <circle cx='40' cy='24' r='8' id='f_med' fill='#4c566a'></circle>
     <!-- (unused) -->
-    <circle cx='56' cy='24' r='8' id='f_low' fill='#eceff4'></circle>
+    <circle cx='56' cy='24' r='8' id='f_low' fill='#4c566a'></circle>
     <!-- "New/edit collection/item" text color -->
     <circle cx='72' cy='24' r='8' id='f_inv' fill='#eceff4'></circle>
 
     <!-- (unused) -->
-    <circle cx='24' cy='40' r='8' id='b_high' fill='#bf616a'></circle>
+    <circle cx='24' cy='40' r='8' id='b_high' fill='#2e3440'></circle>
     <!-- "New collection/item" fill color -->
     <circle cx='40' cy='40' r='8' id='b_med' fill='#4c566a'></circle>
     <!-- Collection header/footer, uncategorized item fill, and categorized item text -->
     <circle cx='56' cy='40' r='8' id='b_low' fill='#4c566a'></circle>
     <!-- (unused) -->
-    <circle cx='72' cy='40' r='8' id='b_inv' fill='#88c0d0'></circle>
+    <circle cx='72' cy='40' r='8' id='b_inv' fill='#bf616a'></circle>
 
     <!-- Fill categorized items -->
-    <desc id='tape_invert' fill='false'></desc>
+    <desc id='tape_style' fill='0'></desc>
     <!-- "Priority" category -->
     <desc id='tape_priority' fill='#bf616a'></desc>
     <!-- "Working" category -->

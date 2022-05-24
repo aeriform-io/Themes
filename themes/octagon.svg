@@ -10,21 +10,21 @@
     <!-- Color of Tape logo -->
     <circle cx="40" cy="24" r="8" id="f_med" fill="#3A3D4C"/>
     <!-- (unused) -->
-    <circle cx="56" cy="24" r="8" id="f_low" fill="#FF657A"/>
+    <circle cx="56" cy="24" r="8" id="f_low" fill="#1E1F2B"/>
     <!-- "New/edit collection/item" text color -->
     <circle cx="72" cy="24" r="8" id="f_inv" fill="#EAF2F1"/>
 
     <!-- (unused) -->
-    <circle cx="24" cy="40" r="8" id="b_high" fill="#BAD761"/>
+    <circle cx="24" cy="40" r="8" id="b_high" fill="#1E1F2B"/>
     <!-- "New collection/item" fill color -->
     <circle cx="40" cy="40" r="8" id="b_med" fill="#3A3D4C"/>
     <!-- Collection header/footer, uncategorized item fill, and categorized item text -->
     <circle cx="56" cy="40" r="8" id="b_low" fill="#282A3A"/>
     <!-- (unused) -->
-    <circle cx="72" cy="40" r="8" id="b_inv" fill="#9CD1BB"/>
+    <circle cx="72" cy="40" r="8" id="b_inv" fill="#FF657A"/>
 
     <!-- Fill categorized items -->
-    <desc id="tape_invert" fill="true"/>
+    <desc id="tape_style" fill="0"/>
     <!-- "Priority" category -->
     <desc id="tape_priority" fill="#FF657A"/>
     <!-- "Working" category -->
