@@ -13,7 +13,7 @@
   <circle cx='72' cy='40' r='8' id='b_inv'     fill='#ff0000'></circle><!-- unused  -->
   <!-- Tape -->
   <desc id='tape_style'                        fill='0'></desc><!-- style -->
-  <desc id='tape_priority'                     fill='#00ffff'></desc><!--  -->
+  <desc id='tape_priority'                     fill='#ff0000'></desc><!--  -->
   <desc id='tape_working'                      fill='#00ffff'></desc><!--  -->
   <desc id='tape_submitted'                    fill='#0000ff'></desc><!--  -->
   <desc id='tape_approved'                     fill='#ff00ff'></desc><!--  -->
